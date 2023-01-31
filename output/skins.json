@@ -1,0 +1,96 @@
+{
+  "skins": [
+    {
+      "localization_name": "skin_Doomfist-on-planetminecraft-com",
+      "texture": "Doomfist-on-planetminecraft-com.png",
+      "type": "free",
+      "geometry": "geometry.humanoid.customSlim"
+    },
+    {
+      "localization_name": "skin_Genji-on-planetminecraft-com",
+      "texture": "Genji-on-planetminecraft-com.png",
+      "type": "free",
+      "geometry": "geometry.humanoid.customSlim"
+    },
+    {
+      "localization_name": "skin_Hanzo-on-planetminecraft-com",
+      "texture": "Hanzo-on-planetminecraft-com.png",
+      "type": "free",
+      "geometry": "geometry.humanoid.customSlim"
+    },
+    {
+      "localization_name": "skin_kiriko-16160584",
+      "texture": "kiriko-16160584.png",
+      "type": "free",
+      "geometry": "geometry.humanoid.customSlim"
+    },
+    {
+      "localization_name": "skin_Mei-Overwatch-on-planetminecraft-com",
+      "texture": "Mei-Overwatch-on-planetminecraft-com.png",
+      "type": "free",
+      "geometry": "geometry.humanoid.customSlim"
+    },
+    {
+      "localization_name": "skin_Overwatch-Am-lie-Widowmaker-Lacroix-on-planetminecraft-com",
+      "texture": "Overwatch-Am-lie-Widowmaker-Lacroix-on-planetminecraft-com.png",
+      "type": "free",
+      "geometry": "geometry.humanoid.customSlim"
+    },
+    {
+      "localization_name": "skin_Overwatch-D-Va-on-planetminecraft-com",
+      "texture": "Overwatch-D-Va-on-planetminecraft-com.png",
+      "type": "free",
+      "geometry": "geometry.humanoid.customSlim"
+    },
+    {
+      "localization_name": "skin_Overwatch-Lena-Tracer-Oxton-on-planetminecraft-com",
+      "texture": "Overwatch-Lena-Tracer-Oxton-on-planetminecraft-com.png",
+      "type": "free",
+      "geometry": "geometry.humanoid.customSlim"
+    },
+    {
+      "localization_name": "skin_Overwatch-Reinhardt-on-planetminecraft-com",
+      "texture": "Overwatch-Reinhardt-on-planetminecraft-com.png",
+      "type": "free",
+      "geometry": "geometry.humanoid.customSlim"
+    },
+    {
+      "localization_name": "skin_Overwatch-Sombra-on-planetminecraft-com",
+      "texture": "Overwatch-Sombra-on-planetminecraft-com.png",
+      "type": "free",
+      "geometry": "geometry.humanoid.customSlim"
+    },
+    {
+      "localization_name": "skin_Overwatch-Zarya-on-planetminecraft-com",
+      "texture": "Overwatch-Zarya-on-planetminecraft-com.png",
+      "type": "free",
+      "geometry": "geometry.humanoid.customSlim"
+    },
+    {
+      "localization_name": "skin_Pharah-requested-on-planetminecraft-com",
+      "texture": "Pharah-requested-on-planetminecraft-com.png",
+      "type": "free",
+      "geometry": "geometry.humanoid.customSlim"
+    },
+    {
+      "localization_name": "skin_satan10228787",
+      "texture": "satan10228787.png",
+      "type": "free",
+      "geometry": "geometry.humanoid.customSlim"
+    },
+    {
+      "localization_name": "skin_Soldier-76-Slasher-76-skin-Overwatch-on-planetminecraft-com",
+      "texture": "Soldier-76-Slasher-76-skin-Overwatch-on-planetminecraft-com.png",
+      "type": "free",
+      "geometry": "geometry.humanoid.customSlim"
+    },
+    {
+      "localization_name": "skin_Winston-on-planetminecraft-com",
+      "texture": "Winston-on-planetminecraft-com.png",
+      "type": "free",
+      "geometry": "geometry.humanoid.customSlim"
+    }
+  ],
+  "serialize_name": "overwatch_skinpack",
+  "localization_name": "overwatch_skinpack"
+}
